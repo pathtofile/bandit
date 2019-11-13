@@ -251,6 +251,7 @@ Usage::
       B701  jinja2_autoescape_false
       B702  use_of_mako_templates
       B703  django_mark_safe
+      B704  obfuscate_call
 
 Baseline
 --------
